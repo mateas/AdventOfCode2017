@@ -6,8 +6,8 @@ public class SpiralMem {
     public static void main(String[] args) {
 
         int input = 347991;
-        System.out.println("Advent03: part 1: " + part1(input));
-        System.out.println("Advent03: part 2: " + part2(input));
+        System.out.println("Advent03: part1 1: " + part1(input));
+        System.out.println("Advent03: part1 2: " + part2(input));
     }
 
     public static int part2(int x, int y) {

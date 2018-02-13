@@ -22,8 +22,8 @@ public class Checksum {
                 "2837\t2747\t2856\t426\t72\t78\t2361\t96\t2784\t2780\t98\t2041\t2444\t1267\t2167\t2480\n" +
                 "411\t178\t4263\t4690\t3653\t162\t3201\t4702\t3129\t2685\t3716\t147\t3790\t4888\t79\t165";
 
-        System.out.println("Advent02: Checksum part 1: " + Checksum.part1(spreadsheet));
-        System.out.println("Advent02: Checksum part 2: " + Checksum.part2(spreadsheet));
+        System.out.println("Advent02: Checksum part1 1: " + Checksum.part1(spreadsheet));
+        System.out.println("Advent02: Checksum part1 2: " + Checksum.part2(spreadsheet));
 
     }
 
